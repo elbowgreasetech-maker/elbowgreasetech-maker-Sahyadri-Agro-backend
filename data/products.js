@@ -54,7 +54,7 @@ const products = [
     varieties: ['Whole Finger', 'Whole Bulb', 'Turmeric Powder'],
     packaging: ['25 kg PP bags', '50 kg bulk bags', 'Retail pouches'],
     minimumOrder: '1 MT',
-    image: 'https://images.unsplash.com/photo-1768729340925-2749ecdc211c?w=900&q=80',
+    image: '/turmeric.png',
   },
   {
     id: 'soyabean',
