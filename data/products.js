@@ -28,7 +28,7 @@ const products = [
     varieties: ['W180', 'W240', 'W320', 'W450', 'Splits & Pieces'],
     packaging: ['10 kg vacuum tin', '22.68 kg vacuum tin', 'Custom retail packs'],
     minimumOrder: '1 MT',
-    image: 'https://images.unsplash.com/photo-1606923829579-0cb981a83e2e?w=900&q=80',
+    image: 'https://images.unsplash.com/photo-1509912760195-4f6cfd8cce2c?w=900&q=80',
   },
   {
     id: 'raw-cashew-nut',
@@ -41,7 +41,7 @@ const products = [
     varieties: ['Standard RCN', 'Premium out-turn grade'],
     packaging: ['80 kg jute bags', 'Bulk container loading'],
     minimumOrder: '1 x 20ft FCL',
-    image: 'https://images.unsplash.com/photo-1509912760195-4f6cfd8cce2c?w=900&q=80',
+    image: 'https://www.anvienterprises.net/images/products/raw-cashew-nut.jpg',
   },
   {
     id: 'turmeric',
@@ -54,7 +54,7 @@ const products = [
     varieties: ['Whole Finger', 'Whole Bulb', 'Turmeric Powder'],
     packaging: ['25 kg PP bags', '50 kg bulk bags', 'Retail pouches'],
     minimumOrder: '1 MT',
-    image: 'https://images.unsplash.com/photo-1615485500834-bc10199bc727?w=900&q=80',
+    image: 'https://images.unsplash.com/photo-1768729340925-2749ecdc211c?w=900&q=80',
   },
   {
     id: 'soyabean',
@@ -67,7 +67,7 @@ const products = [
     varieties: ['Food-grade', 'Feed-grade'],
     packaging: ['50 kg PP bags', 'Bulk container loading'],
     minimumOrder: '1 x 20ft FCL (~25 MT)',
-    image: 'https://images.unsplash.com/photo-1572457224112-06d191bb6d01?w=900&q=80',
+    image: 'https://www.anvienterprises.net/images/products/soyabean.jpg',
   },
   {
     id: 'black-pepper',
