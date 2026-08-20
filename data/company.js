@@ -6,7 +6,7 @@
 module.exports = {
   legalName: 'Sahyadri Agro India Pvt. Ltd.',
   shortName: 'Sahyadri Agro',
-  tagline: 'Premium Indian Rice, Cashews & Almonds — Exported Worldwide',
+  tagline: 'Premium Indian Rice, Cashews, Turmeric, Soyabean & Black Pepper — Exported Worldwide',
   founded: 2018,
 
   contact: {
