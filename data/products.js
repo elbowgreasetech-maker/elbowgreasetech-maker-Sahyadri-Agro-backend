@@ -43,6 +43,19 @@ const products = [
     minimumOrder: '500 kg',
     image: 'https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=900&q=80',
   },
+  {
+    id: 'black-pepper',
+    name: 'Black Pepper',
+    tagline: 'Malabar & Tellicherry grades',
+    shortDescription:
+      'Premium Malabar and Tellicherry black pepper — sun-dried, machine-cleaned, and sorted for uniform piperine content and bold aroma.',
+    longDescription:
+      'Sourced from the spice-rich Konkan coast and Kerala highlands, our black pepper is carefully harvested at peak maturity, sun-dried to optimal moisture levels, and machine-cleaned to remove impurities. Available in Malabar Garbled, Malabar Ungarbled, and Tellicherry Extra Bold grades. Packed in food-safe PP woven bags or vacuum-sealed for freshness retention.',
+    varieties: ['Malabar Garbled', 'Malabar Ungarbled', 'Tellicherry Bold', 'Tellicherry Extra Bold'],
+    packaging: ['25 kg PP woven bags', '50 kg bulk bags', 'Vacuum-sealed retail packs'],
+    minimumOrder: '500 kg',
+    image: 'https://images.unsplash.com/photo-1615485500704-8e990f9900f7?w=900&q=80',
+  },
 ];
 
 module.exports = products;
